@@ -119,6 +119,5 @@ o Interpretability and Control: As models scale, they become more difficult to i
 ### Conclusion
 Generative AI and large language models have revolutionized fields from natural language processing to image generation. With advancements in architectures like transformers,
 applications in various industries have become increasingly sophisticated. However, as models grow larger, ethical considerations around bias, energy consumption, and
-interpretability must be addressed. The future of generative AI holds immense promise, but
-its deployment will require careful management to balance innovation with societal
+interpretability must be addressed. The future of generative AI holds immense promise, but its deployment will require careful management to balance innovation with societal
 responsibility.
